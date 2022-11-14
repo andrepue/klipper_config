@@ -10,4 +10,4 @@ to try out several things, which did not require GPIO pins.
 
 Follow the Files 01...md to get the whole story.
 
-*** Greetings, André ***
+***Greetings, André***
